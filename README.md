@@ -1,17 +1,23 @@
-# PROJECT_02 - Recipe To Grocery List
+# PROJECT_02 - BMI Calculator
 
 Overview:
 
-A simple web-based application that allows users to paste or type recipe ingredients and instantly convert them into a formatted grocery shopping list.
+A simple and responsive web application that calculates the Body Mass Index (BMI) based on user input for weight and height. Built using HTML, CSS, and JavaScript with a modern black and #00b894 color theme.
 
 Features:
 
-1. Input ingredients line-by-line in a text area.
-2. Automatically converts the list into a neat grocery checklist.
-3. Clear and minimal UI with responsive design.
+1. User inputs weight (kg) and height (cm)
+2. Calculates BMI instantly
+
+Displays BMI category:
+
+1. Underweight
+2. Normal weight
+3. Overweight
+4. Obese
 
 Technologies Used:
 
-1. HTML: For creating the structure and form elements.
-2. CSS: For styling and layout of the application.
-3. JavaScript: For parsing input and dynamically generating the grocery list.
+1. HTML5 – Structure
+2. CSS - Styling
+3. JavaScript – BMI calculation logic and DOM manipulation
